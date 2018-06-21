@@ -1,0 +1,118 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\CSkin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\DMSkin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\LayeredSkin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\CSkin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.MiniForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.LoginUI.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Typhon.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.SongInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.DarkHeart.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.FlushForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.listControl.resources
+E:\新建文件夹 (2)\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+E:\新建文件夹 (2)\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+E:\新建文件夹 (2)\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.dll
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.pdb
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ConfigForm.resources
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\neteasemusicapi.dll
+C:\Users\14162\Documents\Visual Studio 2015\Projects\ArzonePlayer\ArzonePlayer\bin\Debug\Newtonsoft.Json.dll
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.dll
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\neteasemusicapi.dll
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\Newtonsoft.Json.dll
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+I:\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.pdb
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ConfigForm.resources
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+I:\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.dll
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.pdb
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ConfigForm.resources
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.SearchForm.resources
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\System.Web.Http.dll
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\System.Net.Http.Formatting.dll
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\NeteaseCloudMusicApi.pdb
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\System.Web.Http.xml
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\System.Net.Http.Formatting.xml
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\MyProjects\ArzonePlayer\ArzonePlayer\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.ArzonePlayer.exe.config
+D:\MyProjects\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.LyricForm.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.dll
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\System.Web.Http.dll
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\System.Net.Http.Formatting.dll
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.pdb
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\NeteaseCloudMusicApi.pdb
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\System.Web.Http.xml
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\System.Net.Http.Formatting.xml
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.ArzonePlayer.exe.config
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ConfigForm.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.LyricForm.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.SearchForm.resources
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+D:\BaiduNetdiskDownload\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csprojResolveAssemblyReference.cache
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ConfigForm.resources
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.ArzonePlayer.resources
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.LyricForm.resources
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.Properties.Resources.resources
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.SearchForm.resources
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.GenerateResource.Cache
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.csproj.CoreCompileInputs.cache
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.exe
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\obj\Debug\ArzonePlayer.pdb
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe.config
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.exe
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\ArzonePlayer.pdb
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.dll
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\Bass.Net.xml
+C:\Users\李志雄\source\repos\ArzonePlayer\ArzonePlayer\bin\Debug\Maskin.pdb
